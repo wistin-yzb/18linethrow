@@ -1,0 +1,9 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: huanglintian
+ * Date: 2018/11/2
+ * Time: 17:44
+ */
+$a = '{"share":[{"title":"\u9080\u4f60\u52a0\u5165{diqu}\u5b66\u59b9\u7fa4","desc":"\u201cDANNY\u201d\u9080\u4f60\u52a0\u5165{diqu}\u9a9a\u5973\u26a1\u6ce1\u53cb\u7fa4\uff0c\u670917\u4e2a\u9644\u8fd1800\u7c73\u5185\u7684\u5973\u751f\uff0c\u8fdb\u5165\u53ef\u67e5\u770b\u8be6\u60c5\u3002","link":"http:\/\/fgt.dfe.xinzixunwang.com\/eislHrfjS.html?v=ZQ2np","img_url":"http:\/\/poi.yut.geartchina.com.cn\/Public\/j5\/img\/qun.jpg"},{"title":"\u9080\u4f60\u52a0\u5165{diqu}\u5b66\u59b9\u7fa4","desc":"\u201cDANNY\u201d\u9080\u4f60\u52a0\u5165{diqu}\u9a9a\u5973\u26a1\u6ce1\u53cb\u7fa4\uff0c\u670917\u4e2a\u9644\u8fd1800\u7c73\u5185\u7684\u5973\u751f\uff0c\u8fdb\u5165\u53ef\u67e5\u770b\u8be6\u60c5\u3002","link":"http:\/\/fgt.dfe.xinzixunwang.com\/eislHrfjS.html?v=ZQ2np","img_url":"http:\/\/poi.yut.geartchina.com.cn\/Public\/j5\/img\/qun.jpg"},{"title":"\u9080\u4f60\u52a0\u5165{diqu}\u5b66\u59b9\u7fa4","link":"http:\/\/fgt.dfe.xinzixunwang.com\/eislHrfjS.html?v=ZQ2np","img_url":"http:\/\/poi.yut.geartchina.com.cn\/Public\/j5\/img\/qun.jpg"}],"c_url_back":"https:\/\/click.linktech.cn\/?tu=http%3A%2F%2Fert.cd.wwafh.cn%2Fqb%2Fq41%2F%3Fa8XsOcOcdCY","c_url":"https:\/\/click.linktech.cn\/?tu=http%3A%2F%2Fert.cd.wwafh.cn%2Fqb%2Fq41%2F%3FaNP29rH0t9r","config":{"debug":false,"appId":"wxe9ee90a63e778406","timestamp":1541145374,"nonceStr":"dEFnIqOfpCPRGjYC","signature":"6a67663c54a5ad86bc212e832248b5a6a64fa605","jsApiList":["checkJsApi","onMenuShareTimeline","hideOptionMenu","onMenuShareAppMessage","hideMenuItems","showMenuItems"]}}';
+var_export(json_decode($a, true));
