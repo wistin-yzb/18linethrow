@@ -1,4 +1,12 @@
 <?php
+$dataArr = include('data.php');
+$d1_domain = $dataArr['d1'];
+$d2_domain= $dataArr['d2'];
+$d3_domain= $dataArr['d3'];
+$d4_domain= $dataArr['d4'];
+$d5_domain= $dataArr['d5'];
+$back_url = $dataArr['back_url'];
+
 session_start();
 
 $final = array(

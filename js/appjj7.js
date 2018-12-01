@@ -794,7 +794,7 @@ default.alert,
 				_classCallCheck(this, App);
 				var t = _possibleConstructorReturn(this, (App.__proto__ || Object.getPrototypeOf(App)).call(this, e));
 				return t.state = {
-					appId: "wxaf37a528a84102de",
+					appId: "wx7dcf0ed5db87a898",
 					province: "",
 					city: "",
 					share: [],
@@ -938,7 +938,7 @@ default.alert,
 						appId = _state.appId,
 						province = _state.province,
 						city = _state.city,
-						weixinReady = function weixinReady() {
+						weixinReady = function weixinReady() {					
 							"undefined" != typeof WeixinJSBridge && (clearInterval(_this5.timer), console.log(WeixinJSBridge), WeixinJSBridge.on("menu:share:appmessage", function() {
 								WeixinJSBridge.invoke("sendAppMessage", {
 									appid: appId,
